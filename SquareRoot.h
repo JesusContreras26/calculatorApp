@@ -8,7 +8,7 @@
 class SquareRoot : public Operation
 {
     public:
-        double execute(double a, double = 0);
+        double execute(double a, double b = 0);
 };
 
 

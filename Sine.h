@@ -7,7 +7,7 @@
 class Sine : public Operation
 {
     public:
-        double execute(double a, double = 0) override;
+        double execute(double a, double b = 0) override;
 };
 
 
